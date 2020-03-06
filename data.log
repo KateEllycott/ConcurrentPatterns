@@ -1,0 +1,110 @@
+Main: Status of Thread [name: Thread number #0]: NEW
+Main: Status of Thread [name: Thread number #1]: NEW
+Main: Status of Thread [name: Thread number #2]: NEW
+Main: Status of Thread [name: Thread number #3]: NEW
+Main: Status of Thread [name: Thread number #4]: NEW
+Main: Status of Thread [name: Thread number #5]: NEW
+Main: Status of Thread [name: Thread number #6]: NEW
+Main: Status of Thread [name: Thread number #7]: NEW
+Main: Status of Thread [name: Thread number #8]: NEW
+Main: Status of Thread [name: Thread number #9]: NEW
+Main: Status of Thread [name: Thread number #0]: NEW
+Main: Old Status of Thread : NEW
+Main: New Status Of Thread : RUNNABLE
+Main: Priority: 10
+********************************************************
+Main: Status of Thread [name: Thread number #1]: NEW
+Main: Old Status of Thread : NEW
+Main: New Status Of Thread : RUNNABLE
+Main: Priority: 1
+********************************************************
+Main: Status of Thread [name: Thread number #2]: NEW
+Main: Old Status of Thread : NEW
+Main: New Status Of Thread : RUNNABLE
+Main: Priority: 10
+********************************************************
+Main: Status of Thread [name: Thread number #3]: NEW
+Main: Old Status of Thread : NEW
+Main: New Status Of Thread : RUNNABLE
+Main: Priority: 1
+********************************************************
+Main: Status of Thread [name: Thread number #4]: NEW
+Main: Old Status of Thread : NEW
+Main: New Status Of Thread : RUNNABLE
+Main: Priority: 10
+********************************************************
+Main: Status of Thread [name: Thread number #5]: NEW
+Main: Old Status of Thread : NEW
+Main: New Status Of Thread : RUNNABLE
+Main: Priority: 1
+********************************************************
+Main: Status of Thread [name: Thread number #6]: NEW
+Main: Old Status of Thread : NEW
+Main: New Status Of Thread : RUNNABLE
+Main: Priority: 10
+********************************************************
+Main: Status of Thread [name: Thread number #7]: NEW
+Main: Old Status of Thread : NEW
+Main: New Status Of Thread : RUNNABLE
+Main: Priority: 1
+********************************************************
+Main: Status of Thread [name: Thread number #8]: NEW
+Main: Old Status of Thread : NEW
+Main: New Status Of Thread : RUNNABLE
+Main: Priority: 10
+********************************************************
+Main: Status of Thread [name: Thread number #9]: NEW
+Main: Old Status of Thread : NEW
+Main: New Status Of Thread : RUNNABLE
+Main: Priority: 1
+********************************************************
+Main: Status of Thread [name: Thread number #2]: RUNNABLE
+Main: Old Status of Thread : RUNNABLE
+Main: New Status Of Thread : TERMINATED
+Main: Priority: 10
+********************************************************
+Main: Status of Thread [name: Thread number #6]: RUNNABLE
+Main: Old Status of Thread : RUNNABLE
+Main: New Status Of Thread : TERMINATED
+Main: Priority: 10
+********************************************************
+Main: Status of Thread [name: Thread number #4]: RUNNABLE
+Main: Old Status of Thread : RUNNABLE
+Main: New Status Of Thread : TERMINATED
+Main: Priority: 10
+********************************************************
+Main: Status of Thread [name: Thread number #8]: RUNNABLE
+Main: Old Status of Thread : RUNNABLE
+Main: New Status Of Thread : TERMINATED
+Main: Priority: 10
+********************************************************
+Main: Status of Thread [name: Thread number #0]: RUNNABLE
+Main: Old Status of Thread : RUNNABLE
+Main: New Status Of Thread : TERMINATED
+Main: Priority: 10
+********************************************************
+Main: Status of Thread [name: Thread number #1]: RUNNABLE
+Main: Old Status of Thread : RUNNABLE
+Main: New Status Of Thread : TERMINATED
+Main: Priority: 1
+********************************************************
+Main: Status of Thread [name: Thread number #9]: RUNNABLE
+Main: Old Status of Thread : RUNNABLE
+Main: New Status Of Thread : TERMINATED
+Main: Priority: 1
+********************************************************
+Main: Status of Thread [name: Thread number #5]: RUNNABLE
+Main: Old Status of Thread : RUNNABLE
+Main: New Status Of Thread : TERMINATED
+Main: Priority: 1
+********************************************************
+Main: Status of Thread [name: Thread number #7]: RUNNABLE
+Main: Old Status of Thread : RUNNABLE
+Main: New Status Of Thread : TERMINATED
+Main: Priority: 1
+********************************************************
+Main: Status of Thread [name: Thread number #3]: RUNNABLE
+Main: Old Status of Thread : RUNNABLE
+Main: New Status Of Thread : TERMINATED
+Main: Priority: 1
+********************************************************
