@@ -1,4 +1,4 @@
-package com.kateellycott.concurrentpatterns.threadmanagement.groupingthreads;
+package com.kateellycott.concurrentpatterns.threadmanagement.grouping;
 
 import java.util.Random;
 
