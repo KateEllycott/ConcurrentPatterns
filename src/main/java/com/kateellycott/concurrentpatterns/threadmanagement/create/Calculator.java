@@ -1,4 +1,4 @@
-package com.kateellycott.concurrentpatterns.threadmanagement.creating;
+package com.kateellycott.concurrentpatterns.threadmanagement.create;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
