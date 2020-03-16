@@ -1,4 +1,4 @@
-package com.kateellycott.concurrentpatterns.threadmanagement.creating;
+package com.kateellycott.concurrentpatterns.threadmanagement.create;
 
 import java.util.ArrayList;
 import java.util.Date;
