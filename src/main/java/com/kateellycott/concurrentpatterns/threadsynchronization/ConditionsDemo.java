@@ -1,6 +1,5 @@
 package com.kateellycott.concurrentpatterns.threadsynchronization;
 
-import java.io.File;
 import java.util.LinkedList;
 import java.util.Random;
 import java.util.concurrent.locks.Condition;
