@@ -81,6 +81,11 @@ class Person implements Comparable<Person> {
             return this.getFirstName().compareTo(o.getFirstName());
         }
     }
+
+    @Override
+    public String toString() {
+        return firstName + " " + lastName;
+    }
 }
 
 class PersonGenerator {
@@ -130,7 +135,7 @@ class MySupplier implements Supplier<String> {
 }
 
 public class StreamCreationDemo {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         List<Person> persons = PersonGenerator.generate(10000);
         Stream<Person> personStream = persons.parallelStream();
         System.out.printf("Number of persons: %d\n", personStream.count());
@@ -193,5 +198,8 @@ public class StreamCreationDemo {
         Stream<String> stream2 = Stream.of("5", "6", "7", "8");
         Stream<String> stream3 = Stream.concat(stream1, stream2);
         stream3.parallel().forEach(s -> System.out.printf("%s\n", s));
+
+        Stream<Path> logPaths = Files.find(Paths.get("D:\\kateellycott"), Integer.MAX_VALUE, (path, attr) -> path.toString().endsWith(".mp3"));
+        logPaths.forEach(System.out::println);
     }
 }
